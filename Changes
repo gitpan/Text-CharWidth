@@ -1,5 +1,8 @@
 Revision history for Perl extension Text::CharWidth.
 
+0.04  Wed Jun 25 17:28:32 2003
+	- Clearification of the license.
+
 0.03  Sun Jun 22 09:02:10 2003
 	- Added test.
 
